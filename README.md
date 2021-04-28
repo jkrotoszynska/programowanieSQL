@@ -24,5 +24,3 @@ Pobieranie metadanych oraz poprawa wydajności MS SQL Server.
  * __[laboratorium 13.04](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2013.04.docx)__: procedury, funkcje
  * __[laboratorium 27.04](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2027.04.docx)__: wyzwalacze, wyjątki
  * __[laboratorium 11.05](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2018.05.docx)__: Uprawnienia i zaawansowane zapytania SQL
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=le%20render&fontSize=90)

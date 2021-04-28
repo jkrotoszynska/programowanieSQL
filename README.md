@@ -25,3 +25,9 @@ Pobieranie metadanych oraz poprawa wydajności MS SQL Server.
  * __[laboratorium 27.04](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2027.04.docx)__: wyzwalacze, wyjątki
  * __[laboratorium 11.05](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2018.05.docx)__: Uprawnienia i zaawansowane zapytania SQL
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```

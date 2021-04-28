@@ -6,7 +6,7 @@ __Język:__ SQL
 __Środowisko:__ SQL Server 2014 Management Studio  
 __Czas trwania:__ 02.03 - 08.06.2021
 ***
-##Tematyka przedmiotu (wg prowadzącego zajęcia): 
+##T ematyka przedmiotu (wg prowadzącego zajęcia): 
 ```
 Język T-SQL: instrukcje modyfikujące, tworzące oraz indeksy.
 Język T-SQL: typy danych, deklaracja zmiennych, operatory, instrukcje warunkowe, pętle, tworzenie własnych procedur i funkcji.

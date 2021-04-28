@@ -1,5 +1,5 @@
 
-<a href="" target="_blank"><img src="https://www.faceofit.com/wp-content/uploads/2016/02/SQL-Server-Icon.jpg" alt="mssql" width="575" height="223" align="center" /></a>
+<a href="" target="_blank"><img src="https://i2.wp.com/www.malinga.me/wp-content/uploads/2019/01/microsoft-sql-server-1.png?ssl=1" alt="mssql" width="735" height="338" align="center" /></a>
 # Programowanie w języku SQL
 __W tym repozytorium znajdują się notatki zgromadzone podczas zajęć "Programowanie w języku SQL"__  
  Stworzone w celu nauki.

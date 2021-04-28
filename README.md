@@ -1,6 +1,8 @@
 # Programowanie w języku SQL
 __W tym repozytorium znajdują się notatki zgromadzone podczas zajęć "Programowanie w języku SQL"__  
-Stworzone w celu nauki.
+``` diff
+- Stworzone w celu nauki.
+```
 ***
 __Język:__ SQL  
 __Środowisko:__ SQL Server 2014 Management Studio  

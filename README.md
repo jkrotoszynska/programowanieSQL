@@ -18,9 +18,9 @@ Pobieranie metadanych oraz poprawa wydajności MS SQL Server.
 ```
 ***
  ### Spis treści:
- * [laboratorium 02.03](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2002.03.docx)
- * [laboratorium 16.03](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql.docx)
- * [laboratorium 30.03](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2030.03.docx)
- * [laboratorium 13.04](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2013.04.docx)
- * [laboratorium 27.04](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2027.04.docx)
- * [laboratorium 11.05](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2018.05.docx)
+ * __[laboratorium 02.03](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2002.03.docx)__
+ * __[laboratorium 16.03](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql.docx)__
+ * __[laboratorium 30.03](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2030.03.docx)__
+ * __[laboratorium 13.04](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2013.04.docx)__
+ * __[laboratorium 27.04](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2027.04.docx)__
+ * __[laboratorium 11.05](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2018.05.docx)__

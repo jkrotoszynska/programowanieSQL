@@ -1,5 +1,5 @@
 
-<a href="" target="_blank"><img src="https://i2.wp.com/www.malinga.me/wp-content/uploads/2019/01/microsoft-sql-server-1.png?ssl=1" alt="mssql" width="735" height="338" align="center" /></a>
+<a href="" target="_blank"><img src="https://www.wisetrack.com/wp-content/uploads/2018/05/1768.sql_logo.png" alt="mssql" width="1567" height="575" align="center" /></a>
 # Programowanie w języku SQL
 __W tym repozytorium znajdują się notatki zgromadzone podczas zajęć "Programowanie w języku SQL"__  
  Stworzone w celu nauki.

@@ -6,7 +6,7 @@ __Język:__ SQL
 __Środowisko:__ SQL Server 2014 Management Studio  
 __Czas trwania:__ 02.03 - 08.06.2021
 ***
-## Tematyka przedmiotu (wg prowadzącego zajęcia): 
+### Tematyka przedmiotu (wg prowadzącego zajęcia): 
 ```
 Język T-SQL: instrukcje modyfikujące, tworzące oraz indeksy.
 Język T-SQL: typy danych, deklaracja zmiennych, operatory, instrukcje warunkowe, pętle, tworzenie własnych procedur i funkcji.
@@ -16,3 +16,11 @@ Wyzwalacze oraz usługi Reporting Services – tworzenie raportów i zestawień 
 Optymalizacja zapytań i harmonogramowanie pracy w MS SQL Server – skrypty automatyzujące pracę systemu.
 Pobieranie metadanych oraz poprawa wydajności MS SQL Server.
 ```
+***
+ ### Spis treści:
+ * [laboratorium 02.03](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2002.03.docx)
+ * [laboratorium 16.03](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql.docx)
+ * [laboratorium 30.03](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2030.03.docx)
+ * [laboratorium 13.04](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2013.04.docx)
+ * [laboratorium 27.04](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2027.04.docx)
+ * [laboratorium 11.05](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2018.05.docx)

@@ -1,8 +1,6 @@
 # Programowanie w języku SQL
 __W tym repozytorium znajdują się notatki zgromadzone podczas zajęć "Programowanie w języku SQL"__  
-<div class="text-red mb-2">
  Stworzone w celu nauki.
- </div>
 ***
 __Język:__ SQL  
 __Środowisko:__ SQL Server 2014 Management Studio  
@@ -26,3 +24,7 @@ Pobieranie metadanych oraz poprawa wydajności MS SQL Server.
  * __[laboratorium 13.04](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2013.04.docx)__: procedury, funkcje
  * __[laboratorium 27.04](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2027.04.docx)__: wyzwalacze, wyjątki
  * __[laboratorium 11.05](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2018.05.docx)__: Uprawnienia i zaawansowane zapytania SQL
+
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>

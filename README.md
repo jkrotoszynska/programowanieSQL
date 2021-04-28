@@ -1,5 +1,5 @@
 
-<a href="" target="_blank"><img src="https://www.wisetrack.com/wp-content/uploads/2018/05/1768.sql_logo.png" alt="mssql" width="1567" height="575" align="center" /></a>
+<a href="" target="_blank"><img src="https://i0.wp.com/krystianbrozek.pl/wp-content/uploads/2016/11/sqlserver.png?resize=680%2C320&ssl=1" alt="mssql" width="680" height="320" align="center" /></a>
 # Programowanie w języku SQL
 __W tym repozytorium znajdują się notatki zgromadzone podczas zajęć "Programowanie w języku SQL"__  
  Stworzone w celu nauki.

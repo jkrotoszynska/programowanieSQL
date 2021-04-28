@@ -1,7 +1,7 @@
 # Programowanie w języku SQL
 __W tym repozytorium znajdują się notatki zgromadzone podczas zajęć "Programowanie w języku SQL"__  
 <div class="text-red mb-2">
-Stworzone w celu nauki.
+ Stworzone w celu nauki.
  </div>
 ***
 __Język:__ SQL  

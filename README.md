@@ -1,4 +1,4 @@
-# Programowanie w języku SQL
+#Programowanie w języku SQL
 W tym repozytorium znajdują się notatki zgromadzone podczas zajęć "Programowanie w języku SQL"
 Stworzone w celu nauki.
 ***
@@ -7,7 +7,7 @@ __Środowisko:__ SQL Server 2014 Management Studio
 __Czas trwania:__ 02.03 - 08.06.2021
 ***
 ```
-## Tematyka przedmiotu (wg prowadzącego zajęcia): 
+##Tematyka przedmiotu (wg prowadzącego zajęcia): 
 Język T-SQL: instrukcje modyfikujące, tworzące oraz indeksy.
 Język T-SQL: typy danych, deklaracja zmiennych, operatory, instrukcje warunkowe, pętle, tworzenie własnych procedur i funkcji.
 Baza MS SQL Server: przegląd wbudowanych funkcji – numeryczne, tekstowe, formatowania daty oraz transponowania tabel.

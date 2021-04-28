@@ -1,4 +1,3 @@
-<a href="" target="_blank"><img src="https://i0.wp.com/krystianbrozek.pl/wp-content/uploads/2016/11/sqlserver.png?resize=680%2C320&ssl=1" alt="mssql" width="680" height="320" /></a>
 # Programowanie w języku SQL
 __W tym repozytorium znajdują się notatki zgromadzone podczas zajęć "Programowanie w języku SQL"__  
  Stworzone w celu nauki.
@@ -25,3 +24,6 @@ Pobieranie metadanych oraz poprawa wydajności MS SQL Server.
  * __[laboratorium 13.04](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2013.04.docx)__: procedury, funkcje
  * __[laboratorium 27.04](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2027.04.docx)__: wyzwalacze, wyjątki
  * __[laboratorium 11.05](https://github.com/jkrotoszynska/programowanieSQL/blob/main/sql%2018.05.docx)__: Uprawnienia i zaawansowane zapytania SQL
+
+<p align="center">
+ <a href="" target="_blank"><img src="https://i0.wp.com/krystianbrozek.pl/wp-content/uploads/2016/11/sqlserver.png?resize=680%2C320&ssl=1" alt="mssql" width="680" height="320" /></a></p>
